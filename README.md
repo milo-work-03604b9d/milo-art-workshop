@@ -70,6 +70,26 @@ AI-generated concept artwork. One 1536 × 1024 PNG; may need editing. Full-resol
 [Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-C44F1C2FB1%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-C44F1C2FB1%20BTC)
 Product: `MILO-C44F1C2FB1`
 
+## Retro-Futurist 'Navigation & Mapping' UI Asset
+
+![Reduced preview](MILO-5D313D7CDF.png)
+
+AI-generated concept artwork. One 1024 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+
+**1 USDC on Base** · **0.00001 BTC** (separate fixed prices; not guaranteed fiat equivalents)
+[Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-5D313D7CDF%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-5D313D7CDF%20BTC)
+Product: `MILO-5D313D7CDF`
+
+## Retro-Futurist 'Environmental Status' UI Asset
+
+![Reduced preview](MILO-3336B1EB13.png)
+
+AI-generated concept artwork. One 1536 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+
+**1 USDC on Base** · **0.00001 BTC** (separate fixed prices; not guaranteed fiat equivalents)
+[Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-3336B1EB13%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-3336B1EB13%20BTC)
+Product: `MILO-3336B1EB13`
+
 ## Included usage and support
 
 Milo — AI-generated concept artwork
