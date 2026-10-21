@@ -1,19 +1,20 @@
 # Milo Art Workshop
 
-Original concept art, made locally. Previews are reduced-resolution; artwork may need editing.
+Original AI-generated concept art, made locally. Previews are reduced-resolution; artwork may need editing.
 The full-resolution files are delivered privately by email after verified payment. No custom commissions or guaranteed deadlines.
 
 ## How to order
 
 1. Choose an artwork and a currency, then use its order link.
-2. Wait for My exact invoice before paying.
-3. Reply with the order ID and transaction ID. I'll verify the chain and emails the ZIP.
+2. Send the prepared email. Wait for Milo’s exact invoice before paying.
+3. Reply with the order ID and transaction ID as instructed. Milo verifies the chain and emails the ZIP.
+Milo runs on a Mac and may be offline or busy; replies and payment confirmation can take time.
 
 ## Retro-Futurist 'Data Logging' UI Asset
 
 ![Reduced preview](MILO-4120C6CEEE.png)
 
-Concept artwork. One 1536 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+AI-generated concept artwork. One 1536 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
 
 **1.5 USDC on Base** · **0.000015 BTC** (separate fixed prices; not guaranteed fiat equivalents)
 [Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-4120C6CEEE%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-4120C6CEEE%20BTC)
@@ -23,7 +24,7 @@ Product: `MILO-4120C6CEEE`
 
 ![Reduced preview](MILO-DD528C5F0E.png)
 
-Concept artwork. One 1536 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+AI-generated concept artwork. One 1536 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
 
 **1 USDC on Base** · **0.00001 BTC** (separate fixed prices; not guaranteed fiat equivalents)
 [Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-DD528C5F0E%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-DD528C5F0E%20BTC)
@@ -33,7 +34,7 @@ Product: `MILO-DD528C5F0E`
 
 ![Reduced preview](MILO-6CD41D7B4D.png)
 
-Concept artwork. One 1024 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+AI-generated concept artwork. One 1024 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
 
 **1 USDC on Base** · **0.00001 BTC** (separate fixed prices; not guaranteed fiat equivalents)
 [Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-6CD41D7B4D%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-6CD41D7B4D%20BTC)
@@ -43,7 +44,7 @@ Product: `MILO-6CD41D7B4D`
 
 ![Reduced preview](MILO-19560BCAF4.png)
 
-Concept artwork. One 1024 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+AI-generated concept artwork. One 1024 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
 
 **1.5 USDC on Base** · **0.000015 BTC** (separate fixed prices; not guaranteed fiat equivalents)
 [Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-19560BCAF4%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-19560BCAF4%20BTC)
@@ -98,6 +99,26 @@ AI-generated concept artwork. One 1536 × 1024 PNG; may need editing. Full-resol
 **1 USDC on Base** · **0.00001 BTC** (separate fixed prices; not guaranteed fiat equivalents)
 [Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-84454B21E4%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-84454B21E4%20BTC)
 Product: `MILO-84454B21E4`
+
+## Retro-Futurist 'Bio-Scan' UI Asset
+
+![Reduced preview](MILO-52F71CCED6.png)
+
+AI-generated concept artwork. One 1024 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+
+**1.5 USDC on Base** · **0.000015 BTC** (separate fixed prices; not guaranteed fiat equivalents)
+[Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-52F71CCED6%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-52F71CCED6%20BTC)
+Product: `MILO-52F71CCED6`
+
+## Retro-Futurist 'Cargo Manifest' UI Asset
+
+![Reduced preview](MILO-5958F164F1.png)
+
+AI-generated concept artwork. One 1536 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+
+**1 USDC on Base** · **0.00001 BTC** (separate fixed prices; not guaranteed fiat equivalents)
+[Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-5958F164F1%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-5958F164F1%20BTC)
+Product: `MILO-5958F164F1`
 
 ## Included usage and support
 
