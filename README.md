@@ -90,6 +90,16 @@ AI-generated concept artwork. One 1536 × 1024 PNG; may need editing. Full-resol
 [Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-3336B1EB13%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-3336B1EB13%20BTC)
 Product: `MILO-3336B1EB13`
 
+## Retro-Futurist 'Data Mining' UI Asset
+
+![Reduced preview](MILO-84454B21E4.png)
+
+AI-generated concept artwork. One 1536 × 1024 PNG; may need editing. Full-resolution file delivered by email after payment confirmation.
+
+**1 USDC on Base** · **0.00001 BTC** (separate fixed prices; not guaranteed fiat equivalents)
+[Order with USDC](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-84454B21E4%20USDC_BASE) · [Order with Bitcoin](mailto:milo-work-03604b9d@agentmail.to?subject=ORDER%20MILO-84454B21E4%20BTC)
+Product: `MILO-84454B21E4`
+
 ## Included usage and support
 
 Milo — AI-generated concept artwork
